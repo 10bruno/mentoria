@@ -1,36 +1,21 @@
-# Curso de Docker e Containerização
+# Cursos e Materiais de Estudo
 
-Material visual utilizado em uma mentoria sobre **Docker, containers e Kubernetes**, apresentando a evolução dos modelos de execução e implantação de aplicações.
+Este repositório reúne materiais utilizados em **cursos, mentorias, apresentações e estudos técnicos**.
 
-## Conteúdo
-
-Os slides percorrem a evolução:
-
-**Máquina Física → Máquina Virtual → Container → Kubernetes**
-
-Entre os principais tópicos abordados estão:
-
-- Máquinas físicas e virtualização
-- Containers e compartilhamento do kernel
-- Comparação entre VMs e containers
-- Docker e seu papel no ecossistema
-- Imagens, containers, registries e runtimes
-- Dockerfile
-- Docker Desktop e Podman
-- Desafios da execução de containers em escala
-- Orquestração de containers
-- Kubernetes
-- Aplicação → Container → Pod → Node → Cluster → Infraestrutura
-- OpenStack × AWS
-- OpenShift × EKS × Kubernetes
-- Relação entre os conceitos e ambientes corporativos
-
-## Objetivo
-
-Construir um modelo mental sobre **onde cada tecnologia se encaixa**, quais problemas ela resolve e como as diferentes camadas se relacionam em ambientes modernos de engenharia de software.
+A ideia é centralizar conteúdos sobre diferentes temas relacionados à tecnologia e engenharia de software, permitindo que novos cursos e materiais sejam adicionados ao longo do tempo.
 
 ## Estrutura
 
-O material foi desenvolvido para uma apresentação conceitual de aproximadamente **30 a 60 minutos**, sem foco em laboratório prático.
+Cada curso poderá possuir seu próprio diretório, contendo materiais como:
 
-Os slides foram produzidos como material visual de apoio à apresentação e discussão dos conceitos.
+- Slides e apresentações
+- Diagramas e imagens
+- Documentações
+- Exemplos e referências
+- Materiais complementares
+
+## Objetivo
+
+Criar uma base organizada e evolutiva de conhecimento, facilitando o compartilhamento e a reutilização dos materiais em treinamentos, mentorias e estudos.
+
+> Este repositório está em constante evolução e novos conteúdos poderão ser adicionados futuramente.
